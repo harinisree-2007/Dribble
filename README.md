@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+# Case Study: Dribble Clone
 ## Date:
 
 ## AIM:
