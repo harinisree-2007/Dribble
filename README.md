@@ -275,6 +275,6 @@ Publish the website in the LocalHost.
 ```
 
 ## output:
-![alt text](jo/dribapp/static/output.jpeg)
+![alt text](image.png)
 ## RESULT:
 The project for responsive web design in creating a clone of dribble.com is completed successfully.
